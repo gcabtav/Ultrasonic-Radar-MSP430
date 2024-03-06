@@ -31,7 +31,7 @@ Explore the components used in this project, including the MSP430 microcontrolle
 
 ## How to Operate
 
-Find instructions on how to set up and operate the ultrasonic radar system. Learn about loading custom programs onto the MSP430 microcontroller and monitoring the system in real-time.
+Find instructions on how to set up and operate the ultrasonic radar system. Learn about loading custom programs onto the MSP430 microcontroller and monitoring the system in real time.
 
 ## Results
 
@@ -43,7 +43,7 @@ Understand the implications of the achieved results and explore potential areas 
 
 ## Conclusion
 
-Summarize the project's success, the knowledge gained, and the skills developed throughout the development of the ultrasonic radar system.
+Summary of the project's success, the knowledge gained, and the skills developed throughout the development of the ultrasonic radar system.
 
 ## References
 
